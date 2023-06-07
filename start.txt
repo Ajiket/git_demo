@@ -9,3 +9,23 @@ PULL TEST
 PUSH TEST 08:58 PM
 
 PULL TEST 09:01 PM
+
+
+% Commands: 
+
+PUSH: 
+
+$ git add start.txt
+
+$ git add .
+
+$ git status
+
+$ git commit -m "PUSH 2"
+
+
+PULL: 
+
+1] Commit
+
+2] $ git pull
